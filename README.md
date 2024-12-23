@@ -1,5 +1,5 @@
 # scratch-code Plugin
-The plugin manages scratch codes and customer details, ensuring only valid, unique scratch codes are accepted. Invalid or unavailable codes are rejected in real-time or during submission. It also provides a shortcode to display tables and forms.
+This WordPress plugin manages scratch codes and customer details, ensuring that only valid and unique scratch codes are accepted. Invalid or unavailable codes are rejected in real time or upon submission. The plugin also provides a shortcode to display tables and forms.
 
 # Description  
 This WordPress plugin manages scratch codes and customer details with built-in validation to ensure only valid, unique scratch codes are accepted which are inserted. Invalid or unavailable or used codes are rejected in real-time and during form submission. The plugin includes a shortcode to display stored data.
