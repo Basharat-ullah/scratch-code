@@ -7,7 +7,7 @@ This WordPress plugin manages scratch codes and customer details with built-in v
 # Features  
 - **Scratch Code Validation**: Ensures only valid and unique scratch codes are accepted.  
 - **Real-Time and Submission Validation**: Rejects invalid or unavailable or used codes instantly and during submission.  
-- **Data Display**: Provides a shortcode to easily view and insert short codes and customer details within WordPress pages or posts.  
+- **Data Display**: Dispaly customer details and scratch code details to easily view within WordPress admin dashboard.  
 - **Automatic Table Creation**: Creates necessary database tables during installation, with checks to avoid duplication.  
 
 # Installation  
