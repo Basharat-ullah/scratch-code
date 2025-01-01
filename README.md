@@ -17,5 +17,4 @@ This WordPress plugin manages scratch codes and customer details with built-in v
 4. The plugin will automatically create the required database tables.
 
 # Usage  
-1. Use the provided shortcode `[scratch_code_view]` to display table data on any WordPress page or post.  
-2. Ensure inputs for scratch codes and customer details meet the validation criteria.
+1. Use shortcode `[customer_details_input]` to inputs for customer details meet the validation criteria.
